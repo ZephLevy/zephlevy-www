@@ -8,7 +8,7 @@
 
 <section>
 	<h1>
-		Declarative madness.
+		Hi, I'm Zeph.
 	</h1>
 
 	<h2>

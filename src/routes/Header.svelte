@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { resolve } from '$app/paths';
 	import { page } from '$app/state';
-	import github from '$lib/images/github.svg';
+	import git from '$lib/images/git.svg';
 	import logo from '$lib/images/svelte-logo.svg';
 </script>
 
@@ -33,8 +33,8 @@
 	</nav>
 
 	<div class="corner">
-		<a href="https://github.com/sveltejs/kit">
-			<img src={github} alt="GitHub" />
+		<a href="https://git.zephlevy.com">
+			<img src={git} alt="My Forgejo Instance" />
 		</a>
 	</div>
 </header>
