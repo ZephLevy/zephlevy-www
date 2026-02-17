@@ -4,6 +4,9 @@
     "dev": "deno run -A npm:vite dev",
     "build": "deno run -A npm:vite build",
     "preview": "deno run -A npm:vite preview"
+  },
+  "imports": {
+    "@sveltejs/kit": "npm:@sveltejs/kit@^2.52.0"
   }
 }
 
